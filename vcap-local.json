@@ -1,0 +1,14 @@
+
+{
+  "services": {
+    "cleardb": [
+      {
+        "credentials": {
+          "jdbcUrl": "jdbc:mysql://b286bd8b6b8788:2aa27ed8@us-cdbr-iron-east-02.cleardb.net:3306/ad_3e817537932f086",
+             "uri": "mysql://b286bd8b6b8788:2aa27ed8@us-cdbr-iron-east-02.cleardb.net:3306/ad_3e817537932f086?reconnect=true"
+        },
+        "label": "cleardb"
+      }
+    ]
+  }
+}
